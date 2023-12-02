@@ -14,5 +14,3 @@ crate-type = ["cdylib"]
 version = "0.14.1"
 features = ["extension-module"]
 
-[package.metadata.maturin]
-classifier = ["Programming Language :: Python"]
